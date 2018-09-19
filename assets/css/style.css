@@ -1,0 +1,21 @@
+.jumbotron {
+
+    color: #ffffff;
+}
+
+.panel {
+
+    border: #297abd;
+}
+
+.panel > .panel-heading {
+
+    padding: 5px;
+    color: #ffffff;
+    background: #297abd;
+}
+
+.panel > .panel-body {
+
+    padding: 5px;
+}
